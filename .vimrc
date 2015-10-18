@@ -30,7 +30,7 @@ let g:ctrlp_custom_ignore = {
 set ic
 set number
 set t_Co=256
-colorscheme kolor
+colorscheme wombat256i
 set title
 set tabstop=4
 set shiftwidth=4
