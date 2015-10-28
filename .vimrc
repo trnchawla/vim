@@ -8,6 +8,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'epmatsw/ag.vim'
 Plugin 'kien/ctrlp.vim'
+Plugin 'vim-scripts/taglist.vim'
+Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
 filetype plugin indent on
 
@@ -36,3 +38,4 @@ set tabstop=4
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+set hlsearch
