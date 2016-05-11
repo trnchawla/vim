@@ -4,5 +4,6 @@ This is repo which I intend to save my configuration of vim so that I can use th
 2. Rename "vim" to ".vim" <br/>
 3. cd .vim <br/>
 4. run "git submodule update --init --recursive". <br/>
-5. run vi <br/>
-6. In vi editor run ":VundleInstall" <br/>
+5. run "mv ~/.vim/.vimrc ~/" <br/>
+6. run vi <br/>
+7. In vi editor run ":VundleInstall" <br/>
