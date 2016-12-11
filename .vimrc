@@ -9,7 +9,7 @@ Plugin 'flazz/vim-colorschemes'
 Plugin 'epmatsw/ag.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'vim-scripts/taglist.vim'
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
 filetype plugin indent on
 
